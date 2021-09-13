@@ -12,11 +12,6 @@ I’m currently working on **Java**, **Spring Boot**, **Kafka**, **Elasticsearch
 
 [![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=garvitkhamesra&show_icons=true)](https://github.com/garvitkhamesra/github-readme-stats)
 
-[![Garvit's Node messeging app](https://github-readme-stats.vercel.app/api/pin/?username=garvitkhamesra&repo=nodeChatApp)](https://github.com/garvitkhamesra/nodeChatApp)
-[![Garvit's few repos](https://github-readme-stats.vercel.app/api/pin/?username=garvitkhamesra&repo=snippets)](https://github.com/garvitkhamesra/snippets)
-[![Garvit's few repos](https://github-readme-stats.vercel.app/api/pin/?username=garvitkhamesra&repo=url-shortner)](https://github.com/garvitkhamesra/url-shortner)
-[![Garvit's few repos](https://github-readme-stats.vercel.app/api/pin/?username=garvitkhamesra&repo=jwt_postgres_springboot)](https://github.com/garvitkhamesra/jwt_postgres_springboot)
-
 # 📫 How to reach me
 
 - <a href = "https://www.linkedin.com/in/garvitkhamesra/"><img src="https://raw.githubusercontent.com/garvitkhamesra/garvitkhamesra/master/linkedin.png" width="3%" height="3%" /></a>
