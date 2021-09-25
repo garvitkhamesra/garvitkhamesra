@@ -2,7 +2,7 @@
 <!---
 (https://personalwebsite/)
 --->
-# 👋 Little about me
+# 👋 Little About Myself
 
 I'm a software developer. I'm from India.<br>
 I'm interested in working with Distributed systems, Backend technologies and all other things which have intriguing usecases. I would love to collabrate and work on challenging projects. I'm keen on learning new technologies. <br>
